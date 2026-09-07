@@ -56,46 +56,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 💻 My iOS Skills
-
-```swift
-struct AyaSaadeldin {
-
-    let role = "iOS Developer 🍎"
-
-    let languages = [
-        "Swift"
-    ]
-
-    let frameworks = [
-        "UIKit",
-        "SwiftUI"
-    ]
-
-    let architecture = [
-        "MVC",
-        "MVVM"
-    ]
-
-    let networking = [
-        "URLSession",
-        "REST APIs",
-        "JSON",
-        "Codable",
-        "Async/Await"
-    ]
-
-    let tools = [
-        "Xcode",
-        "Git",
-        "GitHub",
-        "Figma"
-    ]
-
-    let currentlyLearning = [
-        "Advanced SwiftUI",
-        "Modern iOS Development"
-    ]
-}
