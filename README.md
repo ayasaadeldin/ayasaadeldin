@@ -64,4 +64,4 @@
 * 👥 **[Tuwaiq_Final_Project](https://github.com)** - A feature-rich Social Media application built with UIKit, serving as the graduation project for the Tuwaiq Bootcamp.
 
 ### ⚡ SwiftUI Projects
-*(Future SwiftUI projects will be added here)*
+* 🩺 **[Love&Care](https://github.com)** - A modern SwiftUI healthcare application featuring custom vector shapes, persistent `@AppStorage`, interactive drag gestures, and fluid animations.
