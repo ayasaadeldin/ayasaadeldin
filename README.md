@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Aya Saadeldin 👋🏻
+ Aya Saadeldin 👋🏻
 
 ### 🍎 iOS Developer | Swift | UIKit | SwiftUI
 
