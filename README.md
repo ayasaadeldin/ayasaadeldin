@@ -16,7 +16,6 @@
 
 ## 👩🏻‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🍎 I'm an **iOS Developer**
 - 📱 I build mobile applications using **Swift**
