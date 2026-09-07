@@ -55,3 +55,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## 📱 My Portfolio & Projects
+
+### 🎨 UIKit Projects
+* 🔍 **[Media-Finder](https://github.com)** - An iOS application built with UIKit to search for various media types, implementing REST APIs and JSON parsing.
+* 📝 **[ToDoListApp](https://github.com)** - A comprehensive task management app developed as the primary project during the T1000 Bootcamp.
+* 🌦️ **[Weather_App](https://github.com)** - A weather forecasting application that fetches and displays real-time weather data using REST APIs.
+* 👥 **[Tuwaiq_Final_Project](https://github.com)** - A feature-rich Social Media application built with UIKit, serving as the graduation project for the Tuwaiq Bootcamp.
+
+### ⚡ SwiftUI Projects
+*(Future SwiftUI projects will be added here)*
